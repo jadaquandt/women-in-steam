@@ -1,11 +1,11 @@
 import React from "react";
+import '../../App.css';
 import { Button } from "../button/Button";
 import "./Hero.css";
 
 export default function Hero() {
   return (
     <div className="hero-container">
-      <video src="/public/production_ID_4426380.mp4" autoPlay loop muted />
       <h1>Women in STEAM</h1>
       <p>Science.Technology.Engineering.Arts.Math</p>
       <div className="hero-btns">
