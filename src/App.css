@@ -2,3 +2,24 @@ body {
   /* text-align: center; */
   font-family: "Ubuntu", sans-serif;
 }
+
+.home,
+.science,
+.technology,
+.engineering {
+  display: flex;
+  height: 90vh;
+  align-items: center;
+  justify-content: center;
+  font-size: 3rem;
+}
+
+.science {
+  background-image: url('./images/ada_lovelace.jpeg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin: 0;
+  color: #fff;
+  font-size: 100px;
+}
