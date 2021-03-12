@@ -1,0 +1,62 @@
+[
+  {
+    "science_id": 1,
+    "name": "Tiera Guinn Fletcher",
+    "image": "/images/science/tiera_guinn_fletcher.jpg",
+    "years_living": "1996-Present",
+    "STEAM_letter": "Science",
+    "headline":
+      "Youngest Member of NASA's Engine Section Task Leading team and a lead engineer on the Space Launch System",
+    "bio":
+      "Tiera Guinn Fletcher graduated MIT with an aerospace major and a 5.0 GPA who now works as a Rocket Structural Design and Analysis Engineer for Boeing. She is one of the lead engineers and designers working on the Space Launch System for NASA which aims to put humans on Mars. The area that Tiera works on is the exploratory upper stage of the spacecraft which helps the craft complete its ascent phase. She is part of the Engine Section Task Leading team responsible for this, of which she is the youngest member.",
+    "wikiURL": "https://en.wikipedia.org/wiki/Tiera_Guinn_Fletcher"
+  },
+  {
+    "science_id": 2,
+    "name": "Marie Curie",
+    "image": "/images/science/marie_curie.jpg",
+    "years_living": "1867-1934",
+    "STEAM_letter": "Science",
+    "headline":
+      "First and only woman to win the Nobel Prize twice and coined the term Radioactivity",
+    "bio":
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nibh praesent tristique magna sit. Enim sit amet venenatis urna cursus eget nunc scelerisque viverra. Lacus sed viverra tellus in hac habitasse platea dictumst vestibulum. Lectus sit amet est placerat in. Quisque sagittis purus sit amet volutpat consequat mauris nunc congue.",
+    "wikiURL": "https://en.wikipedia.org/wiki/Marie_Curie"
+  },
+  {
+    "science_id": 3,
+    "name": "Elizabeth Blackwell",
+    "image": "/images/science/elizabeth_blackwell.jpg",
+    "years_living": "1821-1910",
+    "STEAM_letter": "Science",
+    "headline":
+      "The first woman to receive a medical degree in the United States and the first woman on the Medical Register of the General Medical Council",
+    "bio":
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nibh praesent tristique magna sit. Enim sit amet venenatis urna cursus eget nunc scelerisque viverra. Lacus sed viverra tellus in hac habitasse platea dictumst vestibulum. Lectus sit amet est placerat in. Quisque sagittis purus sit amet volutpat consequat mauris nunc congue.",
+    "wikiURL": "https://en.wikipedia.org/wiki/Elizabeth_Blackwell"
+  },
+  {
+    "science_id": 4,
+    "name": "Mae Jemison",
+    "image": "/images/science/mae_jemison.jpg",
+    "years_living": "1956-Present",
+    "STEAM_letter": "Science",
+    "headline":
+      "Former Peace Corps doctor who became the first black female astronaut",
+    "bio":
+      "Mae Jemison was born in Alabama and raised in Chicago, she graduated from Stanford University with degrees in chemical engineering as well as African and African-American studies. She then earned her medical degree from Cornell University. Jemison was a doctor for the Peace Corps in Liberia and Sierra Leone from 1983 until 1985 and worked as a general practitioner. She became the first black woman to travel into space when she served as a mission specialist aboard the Space Shuttle Endeavour. Jemison joined NASA's astronaut corps in 1987 and was selected to serve for the STS-47 mission, during which she orbited the Earth for nearly eight days on September 12–20, 1992.",
+    "wikiURL": "https://en.wikipedia.org/wiki/Mae_Jemison"
+  },
+  {
+    "science_id": 5,
+    "name": "Jennifer Doudna",
+    "image": "/images/science/jennifer_doudna.jpg",
+    "years_living": "1964-Present",
+    "STEAM_letter": "Science",
+    "headline":
+      "Biochemist who was awarded the 2020 Nobel Prize for her co-inventing the gene editing techology known as CRISPR-Cas9",
+    "bio":
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nibh praesent tristique magna sit. Enim sit amet venenatis urna cursus eget nunc scelerisque viverra. Lacus sed viverra tellus in hac habitasse platea dictumst vestibulum. Lectus sit amet est placerat in. Quisque sagittis purus sit amet volutpat consequat mauris nunc congue.",
+    "wikiURL": "https://en.wikipedia.org/wiki/Jennifer_Doudna"
+  }
+]
