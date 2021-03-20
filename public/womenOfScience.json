@@ -58,5 +58,16 @@
     "bio":
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nibh praesent tristique magna sit. Enim sit amet venenatis urna cursus eget nunc scelerisque viverra. Lacus sed viverra tellus in hac habitasse platea dictumst vestibulum. Lectus sit amet est placerat in. Quisque sagittis purus sit amet volutpat consequat mauris nunc congue.",
     "wikiURL": "https://en.wikipedia.org/wiki/Jennifer_Doudna"
+  },
+  {
+    "science_id": 6,
+    "name": "Katharine Burr Blodgett",
+    "image": "/images/engineering/katharine_burr_blodgett.jpg",
+    "years_living": "1898-1979",
+    "STEAM_letter": "Science",
+    "headline":
+      "Physicist and chemist known for inventing non-reflective glass",
+    "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nibh praesent tristique magna sit. Enim sit amet venenatis urna cursus eget nunc scelerisque viverra. Lacus sed viverra tellus in hac habitasse platea dictumst vestibulum. Lectus sit amet est placerat in. Quisque sagittis purus sit amet volutpat consequat mauris nunc congue.",
+    "wikiURL": "https://en.wikipedia.org/wiki/Katharine_Burr_Blodgett"
   }
 ]

@@ -1,0 +1,65 @@
+[
+  {
+    "engineering_id": 1,
+    "name": "Edith Clarke",
+    "image": "/images/engineering/edith_clarke.jpg",
+    "imageCred": "Unknown",
+    "years_living": "1883-1959",
+    "STEAM_letter": "Engineering",
+    "headline":
+      "First Female Professional Electrical Engineer",
+    "bio":
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Integer enim neque volutpat ac tincidunt vitae semper quis. Non enim praesent elementum facilisis leo vel fringilla est. Aliquam eleifend mi in nulla. In iaculis nunc sed augue lacus viverra vitae congue. Nec feugiat in fermentum posuere.",
+    "wikiURL": "https://en.wikipedia.org/wiki/Edith_Clarke"
+  },
+  {
+    "engineering_id": 2,
+    "name": "Margaret E. Knight",
+    "image": "/images/engineering/margaret_e_knight.jpg",
+    "imageCred": "Unknown",
+    "years_living": "1838-1914",
+    "STEAM_letter": "Engineering",
+    "headline":
+      "The most famous 19th-century woman inventor",
+    "bio":
+      "She was a famous female inventor in the 1800s, amassing over 26 patents in her lifetime and establishing the Eastern Paper Bag company. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Integer enim neque volutpat ac tincidunt vitae semper quis. Non enim praesent elementum facilisis leo vel fringilla est. Aliquam eleifend mi in nulla. In iaculis nunc sed augue lacus viverra vitae congue. Nec feugiat in fermentum posuere.",
+    "wikiURL": "https://en.wikipedia.org/wiki/Margaret_E._Knight"
+  },
+  {
+    "engineering_id": 3,
+    "name": "Ellen Ochoa",
+    "image": "/images/engineering/ellen_ochoa.jpg",
+    "imageCred": "NASA",
+    "years_living": "1958-Present",
+    "STEAM_letter": "Engineering",
+    "headline":
+      "First Hispanic female to travel to space and first Hispanic director of Johnson Space Center",
+    "bio":
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Integer enim neque volutpat ac tincidunt vitae semper quis. Non enim praesent elementum facilisis leo vel fringilla est. Aliquam eleifend mi in nulla. In iaculis nunc sed augue lacus viverra vitae congue. Nec feugiat in fermentum posuere.",
+    "wikiURL": "https://en.wikipedia.org/wiki/Ellen_Ochoa"
+  },
+  {
+    "engineering_id": 4,
+    "name": "Hedy Lamarr",
+    "image": "/images/engineering/hedy_lamarr.jpg",
+    "imageCred": "MGM",
+    "years_living": "1914-2000",
+    "STEAM_letter": "Engineering",
+    "headline":
+      "Co-invented an early version of frequency-hopping spread spectrum communication for torpedo guidance",
+    "bio": "Hedy patented an idea that later became the crutch of both secure military communications and mobile phone technology. In 1942, Hedy and composer George Antheil patented what they called the “Secret Communication System.” The original idea, meant to solve the problem of enemies blocking signals from radio-controlled missiles during World War II, involved changing radio frequencies simultaneously to prevent enemies from being able to detect the messages. Although the US Navy did not adopt Lamarr and Antheil's invention until 1957, the technology the invented formed the basis for today’s WiFi, GPS and Bluetooth communication systems. To celebrate contributions women made to the tech industry, we will highlight a female who made key contributions to the tech industry every Monday in March.",
+    "wikiURL": "https://en.wikipedia.org/wiki/Hedy_Lamarr"
+  },
+  {
+    "engineering_id": 4,
+    "name": "Hedy Lamarr",
+    "image": "/images/engineering/hedy_lamarr.jpg",
+    "imageCred": "MGM",
+    "years_living": "1914-2000",
+    "STEAM_letter": "Engineering",
+    "headline":
+      "Co-invented an early version of frequency-hopping spread spectrum communication for torpedo guidance",
+    "bio": "Hedy patented an idea that later became the crutch of both secure military communications and mobile phone technology. In 1942, Hedy and composer George Antheil patented what they called the “Secret Communication System.” The original idea, meant to solve the problem of enemies blocking signals from radio-controlled missiles during World War II, involved changing radio frequencies simultaneously to prevent enemies from being able to detect the messages. Although the US Navy did not adopt Lamarr and Antheil's invention until 1957, the technology the invented formed the basis for today’s WiFi, GPS and Bluetooth communication systems. To celebrate contributions women made to the tech industry, we will highlight a female who made key contributions to the tech industry every Monday in March.",
+    "wikiURL": "https://en.wikipedia.org/wiki/Hedy_Lamarr"
+  }
+]
