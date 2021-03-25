@@ -51,15 +51,39 @@
     "wikiURL": "https://en.wikipedia.org/wiki/Hedy_Lamarr"
   },
   {
-    "engineering_id": 4,
-    "name": "Hedy Lamarr",
-    "image": "/images/engineering/hedy_lamarr.jpg",
-    "imageCred": "MGM",
-    "years_living": "1914-2000",
+    "engineering_id": 5,
+    "name": "Emily Roebling",
+    "image": "/images/engineering/emily_roebling.jpg",
+    "imageCred": "Unknown",
+    "years_living": "1843–1903",
     "STEAM_letter": "Engineering",
     "headline":
-      "Co-invented an early version of frequency-hopping spread spectrum communication for torpedo guidance",
-    "bio": "Hedy patented an idea that later became the crutch of both secure military communications and mobile phone technology. In 1942, Hedy and composer George Antheil patented what they called the “Secret Communication System.” The original idea, meant to solve the problem of enemies blocking signals from radio-controlled missiles during World War II, involved changing radio frequencies simultaneously to prevent enemies from being able to detect the messages. Although the US Navy did not adopt Lamarr and Antheil's invention until 1957, the technology the invented formed the basis for today’s WiFi, GPS and Bluetooth communication systems. To celebrate contributions women made to the tech industry, we will highlight a female who made key contributions to the tech industry every Monday in March.",
-    "wikiURL": "https://en.wikipedia.org/wiki/Hedy_Lamarr"
+      "Helped engineer the Brookyln Bridge and was an early Women's Rights Activist",
+    "bio": "Emily Warren Roebling was an engineer known for her contributions over a period of more than 10 years to the completion of the Brooklyn Bridge after her husband Washington Roebling developed caisson disease (a.k.a. decompression disease) and became bedridden. She served as a liaison and supervisor of construction through communicating between her husband and on-site personnel. Her husband was the chief engineer during construction of the Brooklyn Bridge, which had been designed by his late father, John A. Roebling. Roebling is known for her influential essay, 'A Wife's Disabilities' (1899), published in the Albany Law Journal, which won wide acclaim and awards. In it, she argued for greater women's rights and railed against discriminatory practices targeted at women.",
+    "wikiURL": "https://en.wikipedia.org/wiki/Emily_Warren_Roebling"
+  },
+  {
+    "engineering_id": 6,
+    "name": "Martha Coston",
+    "image": "/images/engineering/martha_coston.jpg",
+    "imageCred": "Unknown",
+    "years_living": "1826–1904",
+    "STEAM_letter": "Engineering",
+    "headline":
+      "Created creating a signalling flare system still used by the US Navy today",
+    "bio": "She discovered a design for a pyrotechnic flare that her late husband had left behind in his notebook, and set about designing a signal flare that would work. For nearly 10 years she worked on perfecting the design, which needed to be bright, multi-coloured and long-lasting if they were to be effective tools for communication. She finally achieved a patent in 1859, with the US Navy paying her $20,000 for the rights to the flares - an incredible recognition for women at that time.",
+    "wikiURL": "https://en.wikipedia.org/wiki/Martha_Coston"
+  },
+  {
+    "engineering_id": 7,
+    "name": "Lillian Gilbreth",
+    "image": "/images/engineering/lillian_gilbreth.jpg",
+    "imageCred": "Unknown",
+    "years_living": "1878–1972",
+    "STEAM_letter": "Engineering",
+    "headline":
+      "The first female member of the American Society of Mechanical Engineers and 'Mother of Modern Management'",
+    "bio": "Lillian Gilbreth was an American psychologist and engineer who, with her husband, Frank Bunker Gilbreth, developed methods to increase the efficiency of industrial employees, most notably time-and-motion study. She also worked with General Electric to improve the design of kitchen and household appliances. As a mother of twelve, Gilbreth became recognised not just for her development of industrial management techniques, but also for her ability to combine a career and a family, with the California Monthly labelling her ‘a genius in the art of living’.",
+    "wikiURL": "https://en.wikipedia.org/wiki/Lillian_Moller_Gilbreth"
   }
 ]
