@@ -1,0 +1,28 @@
+[
+  {
+    "engineering_id": 1,
+    "name": "Edith Clarke",
+    "image": "/images/engineering/edith_clarke.jpg",
+    "imageCred": "Unknown",
+    "years_living": "1883-1959",
+    "STEAM_letter": "Engineering",
+    "headline":
+      "First Female Professional Electrical Engineer",
+    "bio":
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Integer enim neque volutpat ac tincidunt vitae semper quis. Non enim praesent elementum facilisis leo vel fringilla est. Aliquam eleifend mi in nulla. In iaculis nunc sed augue lacus viverra vitae congue. Nec feugiat in fermentum posuere.",
+    "wikiURL": "https://en.wikipedia.org/wiki/Edith_Clarke"
+  },
+  {
+    "engineering_id": 2,
+    "name": "Margaret E. Knight",
+    "image": "/images/engineering/margaret_e_knight.jpg",
+    "imageCred": "Unknown",
+    "years_living": "1838-1914",
+    "STEAM_letter": "Engineering",
+    "headline":
+      "The most famous 19th-century woman inventor",
+    "bio":
+      "She was a famous female inventor in the 1800s, amassing over 26 patents in her lifetime and establishing the Eastern Paper Bag company. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Integer enim neque volutpat ac tincidunt vitae semper quis. Non enim praesent elementum facilisis leo vel fringilla est. Aliquam eleifend mi in nulla. In iaculis nunc sed augue lacus viverra vitae congue. Nec feugiat in fermentum posuere.",
+    "wikiURL": "https://en.wikipedia.org/wiki/Margaret_E._Knight"
+  }
+]

@@ -85,5 +85,29 @@
       "The first female member of the American Society of Mechanical Engineers and 'Mother of Modern Management'",
     "bio": "Lillian Gilbreth was an American psychologist and engineer who, with her husband, Frank Bunker Gilbreth, developed methods to increase the efficiency of industrial employees, most notably time-and-motion study. She also worked with General Electric to improve the design of kitchen and household appliances. As a mother of twelve, Gilbreth became recognised not just for her development of industrial management techniques, but also for her ability to combine a career and a family, with the California Monthly labelling her ‘a genius in the art of living’.",
     "wikiURL": "https://en.wikipedia.org/wiki/Lillian_Moller_Gilbreth"
+  },
+  {
+    "engineering_id": 8,
+    "name": "Heartha Ayrton",
+    "image": "/images/engineering/heartha_ayrton.jpg",
+    "imageCred": "Unknown",
+    "years_living": "1854–1923",
+    "STEAM_letter": "Engineering",
+    "headline":
+      "First woman invited to give a paper at and first woman elected to membership at the Institution of Electrical Engineers",
+    "bio": "In 1893, Hertha took over a project investigating the cause of an irritating hissing noise coming from the electric arc, which powered lamps in London at the time. The lamps consisted of two carbon rods with a charge running between them that produced an arc of light in the space between the rods. Hertha was the first to figure out that this loud hissing was due to the oxidation of the carbon electrodes. If you simply enclosed the whole contraption in a bulb so that it was not exposed to open air, the hissing stopped. Hertha’s remarkable work on the electric arc won the attention and admiration of contemporary scientists. She was the first woman invited to give a paper at the Institution of Electrical Engineers in 1899 and became the first woman elected to membership of that Institution. Her understanding of fluid dynamics enabled invention of a fan to create eddies of air that could be used to repel gas attacks. It was called the Ayrton fan. Which helped during WWI.",
+    "wikiURL": "https://en.wikipedia.org/wiki/Hertha_Ayrton"
+  },
+  {
+    "engineering_id": 9,
+    "name": "Heartha Ayrton",
+    "image": "/images/engineering/heartha_ayrton.jpg",
+    "imageCred": "Unknown",
+    "years_living": "1854–1923",
+    "STEAM_letter": "Engineering",
+    "headline":
+      "First woman invited to give a paper at and first woman elected to membership at the Institution of Electrical Engineers",
+    "bio": "In 1893, Hertha took over a project investigating the cause of an irritating hissing noise coming from the electric arc, which powered lamps in London at the time. The lamps consisted of two carbon rods with a charge running between them that produced an arc of light in the space between the rods. Hertha was the first to figure out that this loud hissing was due to the oxidation of the carbon electrodes. If you simply enclosed the whole contraption in a bulb so that it was not exposed to open air, the hissing stopped. Hertha’s remarkable work on the electric arc won the attention and admiration of contemporary scientists. She was the first woman invited to give a paper at the Institution of Electrical Engineers in 1899 and became the first woman elected to membership of that Institution. Her understanding of fluid dynamics enabled invention of a fan to create eddies of air that could be used to repel gas attacks. It was called the Ayrton fan. Which helped during WWI.",
+    "wikiURL": "https://en.wikipedia.org/wiki/Hertha_Ayrton"
   }
 ]
